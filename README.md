@@ -45,8 +45,8 @@ Before you begin, ensure you have the following installed:
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/Sauhardya27/Quiz-app.git
-cd Quiz-app
+git clone https://github.com/Sauhardya27/Quiz-app-2.git
+cd Quiz-app-2
 ```
 
 2. **Setup the Backend**
@@ -86,7 +86,7 @@ NODE_ENV = development
 ## 📁 Project Structure
 
 ```
-quiz-app/
+Quiz-app-2/
 ├── client/                 # Frontend React application
 │   ├── public/
 │   ├── src/
