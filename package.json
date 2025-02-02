@@ -1,0 +1,12 @@
+{
+  "name": "quiz-app",
+  "version": "1.0.0",
+  "description": "A modern, responsive quiz application built with React and Node.js that features real-time scoring, streaks system, and dark mode support.",
+  "scripts": {
+    "build": "npm install --prefix server && npm install --prefix client && npm run build --prefix client",
+    "start": "npm run start --prefix server"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
