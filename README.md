@@ -58,7 +58,7 @@ cd server
 npm install
 
 # Start the server
-npm start
+npm run dev
 ```
 
 3. **Setup the Frontend**
@@ -75,18 +75,12 @@ npm run dev
 
 4. **Environment Variables**
 
-Create `.env` files in both client and server directories:
+Create `.env` files in server directory:
 
 Backend (server/.env):
 ```plaintext
-PORT=5000
-MONGODB_URI=your_mongodb_uri
-CORS_ORIGIN=http://localhost:3000
-```
-
-Frontend (client/.env):
-```plaintext
-VITE_API_URL=http://localhost:5000
+PORT=5001
+NODE_ENV = development
 ```
 
 ## 📁 Project Structure
@@ -112,10 +106,11 @@ quiz-app/
 │   ├── package-lock.json
 │   └── package.json
 │
-└── server/                # Backend Node.js application
-    ├── server.js        
-    ├── package-lock.json
-    └── package.json
+├──  server/                # Backend Node.js application
+│   ├── api/server.js        
+│   ├── package-lock.json
+│   └── package.json
+└── package.json
 ```
 
 ## 🎮 Usage
@@ -135,4 +130,4 @@ quiz-app/
    - Watch your streak counter for bonus points
    - Monitor your score and remaining time for each question
 
-Project Link: [Quiz-app](https://github.com/Sauhardya27/Quiz-app)
+Project Link: [Quiz-app](https://github.com/Sauhardya27/Quiz-app-2)
