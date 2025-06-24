@@ -132,6 +132,3 @@ Quiz-app-2/
    - Monitor your score and remaining time for each question
 
 Project Link: [Quiz-app](https://github.com/Sauhardya27/Quiz-app-2)
-
-
-Made with ❤️ by Sauhardya
