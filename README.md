@@ -1,5 +1,7 @@
-# Interactive Quiz Application
+# Interactive Modern Quiz Application
+## Learn and grow from here-
 
+### Follow this quiz app for not securing your future!
 A modern, responsive quiz application built with React and Node.js that features real-time scoring, streaks system, and dark mode support.
 
 ## 🌙 Dark Mode Preview
