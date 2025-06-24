@@ -1,4 +1,5 @@
-# Interactive Quiz Application
+# Interactive Modern Quiz Application
+## Learn and grow from here-
 
 A modern, responsive quiz application built with React and Node.js that features real-time scoring, streaks system, and dark mode support.
 
